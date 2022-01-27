@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidProjectDrive/CityCupKiosk/app/src/main/res/layout/activity_main.xml" value="0.12921348314606743" />
+        <entry key="..\:/AndroidProjectDrive/CityCupKiosk/app/src/main/res/layout/activity_qrscanner.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidProjectDrive/CityCupKiosk/app/src/main/res/layout/activity_serial_port_view.xml" value="0.12921348314606743" />
+        <entry key="..\:/AndroidProjectDrive/CityCupKiosk/app/src/main/res/layout/console.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidProjectDrive/CityCupKiosk/app/src/main/res/layout/loopback.xml" value="0.67" />
+        <entry key="..\:/AndroidProjectDrive/CityCupKiosk/app/src/main/res/layout/main.xml" value="0.33" />
+        <entry key="..\:/AndroidProjectDrive/CityCupKiosk/app/src/main/res/layout/sending01010101.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidProjectDrive/CityCupKiosk/app/src/main/res/layout/view_common_serialdatat.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidProjectDrive/CityCupKiosk/app/src/main/res/layout/view_common_serialport_select.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidProjectDrive/CityCupKiosk/app/src/main/res/xml/serial_port_preferences.xml" value="0.1348314606741573" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
